@@ -41,8 +41,8 @@ const NavLinks = () => {
                     ></div>
                   </div>
                   <div className="bg-white p-5 grid grid-cols-3 gap-10">
-                    {link.sublinks.map((mysublinks) => (
-                      <div>
+                    {link.sublinks.map((mysublinks, subIndex) => (
+                      <div key={subIndex}>
                         {mysublinks.sublink ? (
                           <h1 className="text-lg font-semibold">
                             {mysublinks.Head}
@@ -57,7 +57,7 @@ const NavLinks = () => {
                         )}
                         {mysublinks.sublink ? (
                           mysublinks.sublink.map((slink, linkIndex) => (
-                            <li className="text-sm text-gray-600 my-2.5">
+                            <li key={linkIndex} className="text-sm text-gray-600 my-2.5">
             
                                 <a 
                                 href={slink.link}
@@ -89,8 +89,8 @@ const NavLinks = () => {
             `}
           >
             {/* sublinks */}
-            {link.sublinks.map((slinks) => (
-              <div>
+            {link.sublinks.map((slinks, slinkIndex) => (
+              <div key={slinkIndex}>
                 {slinks.sublink ? (
                   <div>
                     <h1
@@ -119,7 +119,7 @@ const NavLinks = () => {
                       }`}
                     >
                       {slinks.sublink.map((slink, slinkSubIndex) => (
-                        <li className="py-3 pl-8">
+                        <li key={slinkSubIndex} className="py-3 pl-8">
                             <a
                             href={slink.link}
                             >{slink.name}</a>
