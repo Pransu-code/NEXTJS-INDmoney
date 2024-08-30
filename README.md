@@ -3,13 +3,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 ## Deployed Link : https://nextjs-in-dmoney-pransucodes-projects.vercel.app/
 
-SS1: Mobile Version ->
-![ss1](/my-nextjs-app/public/ss1.png)
+SS1: Mobile Version
+
+![ss1](public/ss1.png)
 
 
-SS2: Desktop Version ->
+SS2: Desktop Version
 
-![ss2](/my-nextjs-app/public/ss2.png)
+![ss2](public/ss2.png)
 
 First, run the development server:
 
