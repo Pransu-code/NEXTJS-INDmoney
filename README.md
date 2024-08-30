@@ -1,6 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+## Deployed Link : https://indmoney-pransu.netlify.app
+
+SS1: Mobile Version ->
+![ss1](https://github.com/user-attachments/assets/9e5975e1-7085-4795-ac14-042557f59783)
+
+
+SS2: Desktop Version ->
+
+![ss2](https://github.com/user-attachments/assets/1aad0c9e-49d0-4ab3-898e-612a19cbf0aa)
 
 First, run the development server:
 
