@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="bg-white sticky z-[1000] p-5 md:w-auto w-full flex justify-between">
         <Image src={Logo} alt="logo" className="md:cursor-pointer h-9 w-9" />
         <div className="flex-1 flex justify-end md:hidden">
-          <button className="text-green-600 border-2 border-green-600 rounded-full h-8 w-20 mr-2">
+          <button className="text-green-600 border-2 border-green-600 mt-0 rounded-full h-8 w-20 mr-2">
             Log In
           </button>
           <div className="text-xl mt-1 mr-3">

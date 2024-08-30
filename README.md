@@ -4,12 +4,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Deployed Link : https://nextjs-in-dmoney-pransucodes-projects.vercel.app/
 
 SS1: Mobile Version ->
-![ss1](https://github.com/user-attachments/assets/9e5975e1-7085-4795-ac14-042557f59783)
+![ss1](/my-nextjs-app/public/ss1.png)
 
 
 SS2: Desktop Version ->
 
-![ss2](https://github.com/user-attachments/assets/1aad0c9e-49d0-4ab3-898e-612a19cbf0aa)
+![ss2](/my-nextjs-app/public/ss2.png)
 
 First, run the development server:
 
