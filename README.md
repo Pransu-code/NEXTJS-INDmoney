@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-## Deployed Link : https://indmoney-pransu.netlify.app
+## Deployed Link : https://nextjs-in-dmoney-pransucodes-projects.vercel.app/
 
 SS1: Mobile Version ->
 ![ss1](https://github.com/user-attachments/assets/9e5975e1-7085-4795-ac14-042557f59783)
