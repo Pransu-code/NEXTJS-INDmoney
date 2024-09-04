@@ -52,8 +52,8 @@ const NavLinks = () => {
                             
                               <a 
                               href={mysublinks.link}>{mysublinks.Head}</a>
-                            
-                          </h1>
+                            {/* //this is for nested link */}
+                            </h1>
                         )}
                         {mysublinks.sublink ? (
                           mysublinks.sublink.map((slink, linkIndex) => (
